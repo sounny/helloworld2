@@ -1,0 +1,29 @@
+first commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore 
+#
+# Untracked files:
+#	.bash_history
+#	.bash_logout
+#	.bash_profile
+#	.bashrc
+#	.cache/
+#	.gitconfig
+#	.node_repl_history
+#	.npm/
+#	.nvm/
+#	.ssh/
+#	.vscode-server/
+#	.wget-hsts
+#	helloworld/
+#	node_modules/
+#	package-lock.json
+#	package.json
+#
